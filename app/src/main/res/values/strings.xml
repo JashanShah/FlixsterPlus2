@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlixsterPlus 2</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="popularity">Popularity</string>
+    <string name="firstairdate">FirstAirDate</string>
+    <string name="Title">Title</string>
+</resources>
